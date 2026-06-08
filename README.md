@@ -66,6 +66,7 @@ B.Tech Computer Science @ Bennett University (GPA: 8.76/10) · Graduating 2026
 - Multi-modal real-time security: YOLO object detection + CNN facial verification + RNN vehicle anomaly logging → **88% detection precision**
 - LightGBM biometric auth, GPS/GSM tracking, OBD-II/CAN diagnostics, AES/TLS encryption; reduced false-alarm rate by ~**20%**
 - Optimized edge inference pipeline — latency under **200ms/frame**
+---
 **📈 FinSent LSTM – Multimodal Stock Direction Predictor** · *Deep Learning Project*
 - Merged OHLCV technical indicators with FinBERT sentiment from **10,000+ headlines** in a dual-branch LSTM architecture
 - Achieved **~62% precision** and **60% directional accuracy** over 3 years of historical data on 5 ticker symbols
